@@ -88,7 +88,6 @@ registry.cn-chengdu.aliyuncs.com/kerwincui/wumei-smart:1.0
 <br />
 
 ### 六、相关教程
-
 * [项目文档](https://gitee.com/kerwincui/wumei-smart/wikis/pages)
 * [ESP-IDF完整固件代码](https://gitee.com/kerwincui/wumei-smart/tree/master/firmware/esp-idf/wumei-smart-firmware)
 * [演示视频](https://space.bilibili.com/471004321)
@@ -96,7 +95,6 @@ registry.cn-chengdu.aliyuncs.com/kerwincui/wumei-smart:1.0
 * [XUI](https://gitee.com/xuexiangjys/XUI)，Android基于XUI开发，是一个简洁而优雅的原生UI框架
 * [ESP-IDF编程指南](https://docs.espressif.com/projects/esp-idf/zh_CN/latest/esp32/index.html)
 * [EMQX文档](https://docs.emqx.cn)
-
 <br />
 
 ### 七、加入互助交流群:1073236354
