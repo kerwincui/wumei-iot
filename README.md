@@ -91,8 +91,6 @@ registry.cn-chengdu.aliyuncs.com/kerwincui/wumei-smart:1.0
 * [项目文档](https://gitee.com/kerwincui/wumei-smart/wikis/pages)
 * [ESP-IDF完整固件代码](https://gitee.com/kerwincui/wumei-smart/tree/master/firmware/esp-idf/wumei-smart-firmware)
 * [演示视频](https://space.bilibili.com/471004321)
-* [硬件详情和购买方式](https://gitee.com/kerwincui/wumei-smart/wikis/pages?sort_id=4233922&doc_id=1506495)
-* [物美智能官网](http://wumei.live)
 * [若依文档](http://doc.ruoyi.vip/ruoyi-vue/)，前端和后端基于Ruoyi-Vue，前后端分离权限管理系统
 * [XUI](https://gitee.com/xuexiangjys/XUI)，Android基于XUI开发，是一个简洁而优雅的原生UI框架
 * [ESP-IDF编程指南](https://docs.espressif.com/projects/esp-idf/zh_CN/latest/esp32/index.html)
@@ -101,7 +99,6 @@ registry.cn-chengdu.aliyuncs.com/kerwincui/wumei-smart:1.0
 <br />
 
 ### 七、加入互助交流群:1073236354
-<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=P_oc91N6KC39zp2PEV_-BY3xMnAokeZ8&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="物美智能wumeismart" title="物美智能wumeismart"></a> 
 <br /><br />
 
 ### 八、APP和管理端登录 &emsp;&emsp;测试账号：wumei &emsp;密码：admin123
